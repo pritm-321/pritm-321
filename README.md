@@ -73,3 +73,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritm-321&show_icons=true&theme=dark&title_color=41ec55&text_color=3dffd8&locale=en" alt="pritm-321" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritm-321&theme=dark" alt="pritm-321" /></p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pritm-321&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
