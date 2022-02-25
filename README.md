@@ -66,10 +66,10 @@
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritm-321" alt="pritm-321" /></a> </p>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritm-321&show_icons=true&theme=dark&title_color=10fe97&text_color=80fdff&locale=en&layout=compact" alt="pritm-321" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritm-321&show_icons=true&theme=dark&title_color=41ec55&text_color=3dffd8&locale=en" alt="pritm-321" /></p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pritm-321&show_icons=true&theme=dark&title_color=41ec55&text_color=3dffd8&locale=en" alt="pritm-321" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritm-321&theme=dark" alt="pritm-321" /></p>
 
