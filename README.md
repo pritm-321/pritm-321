@@ -73,4 +73,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritm-321&theme=dark" alt="pritm-321" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pritm-321&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pritm-321&theme=xcode)](https://github.com/pritm-321/github-readme-activity-graph)
