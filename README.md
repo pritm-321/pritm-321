@@ -1,17 +1,7 @@
-<h1 align="center">🙏Welcome to Pritam's Profile🙏</h1>
-<h3 align="center">A passionate coder from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritm-321&label=Profile%20views&color=0e75b6&style=flat" alt="pritm-321" /> </p>
 
-<h3 align="left">Connect with me :</h3>
-<p align="left">
-<a href="https://twitter.com/pritamd43618174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pritamd43618174" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pritam-das-1bb1241b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-das-1bb1241b4" height="30" width="40" /></a>
-<a href="https://instagram.com/_._silent_._speaker_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._silent_._speaker_._" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pritam_das76704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pritam_das76704" height="30" width="40" /></a>
- <a href="https://www.facebook.com/profile.php?id=100026072058053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Pritam Das" height="30" width="40" /></a>
-</p>
-
+<h1 align="center">🙏Welcome to Pritam's Profile🙏</h1>
+<h3 align="center">A passionate coder from India</h3>
 
 <h1 align="left"> Skills :-</h1>
 
@@ -71,3 +61,12 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pritm-321&show_icons=true&theme=dark&title_color=ff0000&text_color=ff0000&hide_border=true&locale=en" alt="pritm-321" />
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritm-321&theme=highcontrast&hide_border=true" alt="pritm-321" /></p>
+
+<h3 align="center">Connect with me :</h3>
+<p align="center">
+<a href="https://twitter.com/pritamd43618174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pritamd43618174" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pritam-das-1bb1241b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-das-1bb1241b4" height="30" width="40" /></a>
+<a href="https://instagram.com/_._silent_._speaker_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._silent_._speaker_._" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pritam_das76704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pritam_das76704" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/profile.php?id=100026072058053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Pritam Das" height="30" width="40" /></a>
+</p>
