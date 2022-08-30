@@ -54,16 +54,17 @@
 <a href="https://microsoftoffice.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="msoffice" width="40" height="40"/> </a>
  <a href="https://eclipse.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/64/java-eclipse.png" alt="eclipse" width="40" height="40"/> </a>
 </p>
-
+<br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritm-321&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="pritm-321" /></a> </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritm-321&show_icons=true&theme=dark&title_color=ff0000&text_color=ff0000&bg_color=0d0d0d&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="pritm-321" />
+<br/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pritm-321&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" alt="pritm-321" />
+ 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritm-321&theme=blue-green&hide_border=true" alt="pritm-321" />
 </p>
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritm-321&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="pritm-321" />
 
-![](https://github-readme-stats.vercel.app/api?username=pritm-321&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![]()
+<br/>
 
 <h3 align="center">Connect with me :</h3>
 <p align="center">
