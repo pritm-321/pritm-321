@@ -62,7 +62,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritm-321&theme=blue-green&hide_border=true" alt="pritm-321" />
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritm-321&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="pritm-321" />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritm-321&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="pritm-321" />
 
 <br/>
 
