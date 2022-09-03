@@ -4,7 +4,7 @@
 <h1 align="center">🙏Welcome to Pritam's Profile🙏</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-<h1 align="left"> Skills :-</h1>
+<h1 align="left"> 👩‍💻 Skills :-</h1>
 
 <h3 align="center">Languages Known :</h3><hr>
 <p align="center">
@@ -56,14 +56,24 @@
  <a href="https://eclipse.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/64/java-eclipse.png" alt="eclipse" width="40" height="40"/> </a>
 </p>
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritm-321&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="pritm-321" /></a> </p>
+<h1 align="left"> 🏆 GitHub Trophies :-</h1>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritm-321&theme=discord&no-frame=true&no-bg=true&margin-w=4" alt="pritm-321" /></a> </p>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pritm-321&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" alt="pritm-321" />
- 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritm-321&theme=blue-green&hide_border=true" alt="pritm-321" />
-</p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritm-321&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="pritm-321" />
+<h1 align="left"> 📊 GitHub Stats :-</h1>
+<table border="none">
+ <tr>
+  <td width="60%" align="center">
+    <img  src="https://github-readme-stats.vercel.app/api?username=pritm-321&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" alt="pritm-321" />
+ 
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=pritm-321&theme=blue-green&hide_border=true" alt="pritm-321" />
+
+  </td>
+  <td width="40%" align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritm-321&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=no-compact" alt="pritm-321" />
+  </td>
+ </tr>
+</table>
 
 <br/>
 
