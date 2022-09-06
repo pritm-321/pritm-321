@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/pritm-321/pritm-321/blob/main/pritam%20(1).gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritm-321&label=Profile%20views&color=0e75b6&style=flat" alt="pritm-321" /> </p>
 
-<h1 align="center">🙏Welcome to Pritam's Profile🙏</h1>
+<h1 align="center" >🙏Welcome to Pritam's Profile🙏</h1>
 <h3 align="center">A Passionate Coder from India</h3>
 
 <h1 align="left"> 👩‍💻 Skills :-</h1>
