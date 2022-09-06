@@ -70,7 +70,7 @@
 
   </td>
   <td width="40%" align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritm-321&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=no-compact" alt="pritm-321" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritm-321&langs_count=100&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="pritm-321" />
   </td>
  </tr>
 </table>
@@ -80,4 +80,3 @@
 <a href="https://linkedin.com/in/pritam-das-1bb1241b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-das-1bb1241b4" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pritam_das76704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pritam_das76704" height="30" width="40" /></a>
 </p>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pritm-321&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
