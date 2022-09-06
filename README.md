@@ -74,11 +74,10 @@
   </td>
  </tr>
 </table>
-<br/>
-
 <h3 align="center">Connect with me :</h3>
 <p align="center">
 <a href="https://twitter.com/pritamd43618174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pritamd43618174" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pritam-das-1bb1241b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-das-1bb1241b4" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pritam_das76704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pritam_das76704" height="30" width="40" /></a>
 </p>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pritm-321&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
