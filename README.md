@@ -63,13 +63,13 @@
 <h1 align="left"> 📊 GitHub Stats :-</h1>
 <table border="none">
  <tr>
-  <td width="50%" align="center">
+  <td width="55%" align="center">
     <img  src="https://github-readme-stats.vercel.app/api?username=pritm-321&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" alt="pritm-321" />
  
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pritm-321&theme=blue-green&hide_border=true" alt="pritm-321" />
 
   </td>
-  <td width="50%" align="center">
+  <td width="45%" align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritm-321&langs_count=100&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="pritm-321" />
   </td>
  </tr>
