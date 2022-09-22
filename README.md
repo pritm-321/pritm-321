@@ -70,7 +70,7 @@
 
   </td>
   <td width="45%" align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritm-321&langs_count=100&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="pritm-321" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritm-321&langs_count=100&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=non-compact" alt="pritm-321" />
   </td>
  </tr>
 </table>
