@@ -6,21 +6,36 @@
 
 <h1 align="left"> 👩‍💻 Skills :-</h1>
 
-<h3>Languages Known :</h3>
+<table width="100%" border="none" align="center">
+<tr>
+  <td width="50%" align="center">
+  <h3>Languages Known :</h3>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  </td>
+<td width="50%" align="center">
+  <h3> Cloud hosting and Databases:</h3>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-
-<h3> Cloud hosting and Databases:</h3>
-
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-
-
-<h3>Framework and Libraries Known :</h3>
+  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
+</td>
+</tr>
+<tr>
+  <td width="50%" align="center">
+    <h3>Tools & IDE :</h3> 
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://visualstudiocode.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/> </a>
+<a href="https://chrome.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/chrome.png" alt="chrome" width="40" height="40"/> </a>
+<a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" alt="jupyter" width="40" height="40"/> </a>
+<a href="https://obsdtudio.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/64/obs-studio.png" alt="obs" width="40" height="40"/> </a>
+<a href="https://microsoftoffice.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="msoffice" width="40" height="40"/> </a>
+<a href="https://eclipse.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/64/java-eclipse.png" alt="eclipse" width="40" height="40"/> </a>
+  </td>
+  <td width="50%" align="center">
+  <h3>Framework and Libraries Known :</h3>
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -28,18 +43,16 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-
-
-<h3>Software Known :</h3> 
-  
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+  </td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<h3>OS :</h3>
 <a href="https://windows.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/windows-10.png" alt="windows" width="40" height="40"/> </a>
-<a href="https://visualstudiocode.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/> </a>
-<a href="https://chrome.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/chrome.png" alt="chrome" width="40" height="40"/> </a>
-<a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" alt="jupyter" width="40" height="40"/> </a>
-<a href="https://obsdtudio.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/64/obs-studio.png" alt="obs" width="40" height="40"/> </a>
-<a href="https://microsoftoffice.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="msoffice" width="40" height="40"/> </a>
- <a href="https://eclipse.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/64/java-eclipse.png" alt="eclipse" width="40" height="40"/> </a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" alt="ubuntu" width="40" height="40"/> </a>
+</td>
+</tr>
+</table>
 
 <br/>
 
